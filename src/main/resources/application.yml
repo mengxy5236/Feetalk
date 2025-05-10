@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/feetalk # 数据库连接地址
+    username: postgres                      # 数据库用户名
+    password: 040626xw                      # 数据库密码
+    driver-class-name: org.postgresql.Driver     # PostgreSQL 驱动
+  jpa:
+    hibernate:
+      ddl-auto: update                           # 自动更新数据库结构
+    show-sql: true                                # 显示SQL日志
+logging:
+  level:
+    "[org.hibernate.SQL]": DEBUG                     # 打印SQL语句
