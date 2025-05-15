@@ -1,4 +1,3 @@
-# FeeTalk 🍑💬
 
 基于 Spring Boot 和 WebSocket 构建的即时通讯系统
 
