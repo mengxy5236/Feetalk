@@ -1,14 +1,6 @@
 # FeeTalk 🍑💬
 
-FeeTalk 是一个基于 Spring Boot 和 WebSocket 构建的即时通讯系统，支持用户注册、登录、好友管理、实时聊天等功能，致力于提供一个轻量、高效、安全的聊天体验。
-
-## ✨ 项目亮点
-
-- 🚀 **实时通信**：基于 WebSocket 实现消息即时收发
-- 🔐 **安全认证**：使用 Spring Security + JWT 实现登录验证与权限控制
-- 🧩 **模块清晰**：遵循分层架构，便于后续功能扩展
-- 🛢 **数据持久化**：采用 PostgreSQL + Spring Data JPA 进行数据管理
-- 🌐 **RESTful 接口**：前后端分离，接口设计规范清晰
+基于 Spring Boot 和 WebSocket 构建的即时通讯系统
 
 ## 🛠 技术栈
 
